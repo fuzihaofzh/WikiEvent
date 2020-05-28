@@ -7,9 +7,11 @@ In src, the format is "entity_1 ENTITYSEP entity_2 ... entity_n WIKISEP sentence
 
 ## Reference
 
+```
 @inproceedings{fu2020open,
   title={Open Domain Event Text Generation},
   author={Fu, Zihao and Bing, Lidong and Lam, Wai},
   booktitle={Thirty-Fourth AAAI Conference on Artificial Intelligence},
   year={2020}
 }
+```
