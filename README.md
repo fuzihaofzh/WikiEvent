@@ -14,7 +14,10 @@ In src, the format is "entity_1 ENTITYSEP entity_2 ... entity_n WIKISEP sentence
 @inproceedings{fu2020open,
   title={Open Domain Event Text Generation},
   author={Fu, Zihao and Bing, Lidong and Lam, Wai},
-  booktitle={Thirty-Fourth AAAI Conference on Artificial Intelligence},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={05},
+  pages={7748--7755},
   year={2020}
 }
 ```
